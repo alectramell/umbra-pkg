@@ -1,0 +1,9 @@
+Package: umbra
+Priority: optional
+Section: devel
+Installed-Size: 45
+Maintainer: Alec Tramell <alectramell@gmail.com>
+Architecture: i386
+Version: 1.0
+Depends: libc6 (>= 2.1)
+Description: Apollon Data Metrics (AGY) Linux Command Library.
